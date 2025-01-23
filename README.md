@@ -18,3 +18,7 @@ The components include :-
  - 14)Rocker Arm
  - 15)Valve Sub-Assembly
  - 16)Final Assembly
+
+   All the SLDPRT format of all the above mentioned components are attached in this repository
+
+   Reference :- https://www.youtube.com/watch?v=PiSMgTaHm9I
